@@ -26,7 +26,7 @@ Make sure that your Personas satisfies the following criteria:
 
 - [ ] Confluence is organized (cover page, project details, requirements, technical details about the project, meeting minutes and so on). 
 - [ ] Trello (or Github projects or JIRA) is created, structured and organized. 
-- [ ] Previous/existing project is deployed and could be tested.
+- [ ] Previous/existing project is deployed and could be used/tested as part of this requirements engineering phase.
 - [ ] README file is updated and provide details about the project, workflow (branches/naming conventions and so on).
 
 ## Plan
