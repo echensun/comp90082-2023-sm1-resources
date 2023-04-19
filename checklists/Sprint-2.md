@@ -1,5 +1,9 @@
 # Sprint 2 Assessment Checklist
 This checklist helps you double check your work for Sprint 2. 
+In this sprint, we will assess your Confluence, Trello, JIRA and other tools used as part of your software development process (instead of just looking at your release on GitHub, like it happened in Sprint 1). We believe these tools will give us better metrics to assess teams' efforts (as per your suggestions in our feedback session on April 19, during our seminar). Thank you very much for working together with us in this.
+
+In saying this, it's important we keep our 'package' on GitHub organised.
+Later, this might be used as a technical portfolio for you.
 
 
 ## Confluence (infra)
@@ -23,7 +27,13 @@ Make sure that your task tracking satisfy the following criteria:
 - [ ] Students organized a product backlog and a lower-level sprint backlog. 
 - [ ] Tasks in the sprint backlog were estimated, have an appropriate due date and have a sufficiently low level of granularity. 
 - [ ] Tasks are also clear, linked to their user stories (Confluence) and offer additional description when necessary.
+- [ ] A link to your Trello or JIRA (Anyone with link can access that resource) was made available to your marker.
 
+## Code Review (Week 8)
+Make sure that your code review satisfy the following criteria:
+
+- [ ] Students documented their peer-to-peer or chatgpt code review on GitHub (pull request comment).
+- [ ] Students documented their peer-to-peer or chatgpt code review on Confluence (new page on Confluence to document how you performed your code review). 
 
 ## Version Control
 Make sure that your version control satisfy the following criteria:
