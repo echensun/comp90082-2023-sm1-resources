@@ -36,16 +36,16 @@ Make sure that your code review satisfy the following criteria:
 - [ ] Students documented their peer-to-peer or chatgpt code review on Confluence (new page on Confluence to document how you performed your code review - who participated in that, when did that happen, number of issues identified and so on). 
 - [ ] In case you used ChatGPT in Week 8, please disconnect your GitHub repository from our ChatGPT Code Review one so you don't get charged in the future (or, make sure you continue to use this carefully and only when stricly necessary - do not use it for all commits)
 
-## Version Control
-Make sure that your version control satisfy the following criteria:
-- [ ] Clear indications that version control is being used in an organised manner. 
-
+## Sprint Planning and Review
+Make sure that your sprint planning and review are documented on Confluence:
+- [ ] Clear indication that sprint planning was followed this sprint and a clear, consistent, updated sprint planning for Sprint 3.
+- [ ] Clear indication that sprint review was followed this sprint. Team organised a meeting for this, documented discussions, reflections and next steps to be taken in Sprint 3.
 
 ## Product
 Make sure that your product satisfy the following criteria:
 
-- [ ] Product outcomes for this dev Sprint commensurate with project difficulty.
-- [ ] Product is deployed and an URL is available on Github README so client can access current version of this software.
+- [ ] Product is deployed and an URL is available on Confluence and Github README so client can access current version of this software.
+- [ ] FOR PROJECTS YOU CANT DEPLOY IT NOW: Can you emulate the project and demonstrate current progress for us in a short recorded video? we need to be able to measure your development progress in Sprint 2, that's all.
 
 
 ## Meetings
