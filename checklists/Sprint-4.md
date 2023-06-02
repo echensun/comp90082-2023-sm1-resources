@@ -7,12 +7,6 @@ Make sure your meetings (team meetings, supervision meetings and meetings with i
 - [ ] Meetings are recorded in Confluence and only. They were NOT exported to Github as they're part of internal process.
 
 
-## Release notes
-Make sure that:
-
-- [ ] Students created a clear and complete document explaining the client how to access developed resources, how they are organised on Github, and also provided details on how to run their project (digital prototypes).
-
-
 ## Release TAG
 Make sure that:
 
