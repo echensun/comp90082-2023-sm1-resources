@@ -4,7 +4,7 @@ This checklist helps you double check your work for Sprint 4.
 ## Meetings
 Make sure your meetings (team meetings, supervision meetings and meetings with industry partners) are documented in Confluence (and only). 
 
-- [ ] Meetings are recorded in Confluence and only. They were NOT exported to Github as they're part of internal process.
+- [X] Meetings are recorded in Confluence and only. They were NOT exported to Github as they're part of internal process.
 
 
 ## Release TAG
@@ -42,7 +42,7 @@ Make sure that:
 ## Product
 Make sure that your product satisfy the following criteria:
 
-- [ ] Product is deployed and an URL is available on Github README so client can access current version of this software (IF APPLIED. If not, please explain).
+- [ ] Product is deployed and an URL is available on Github README so client can access current version of this software (IF APPLIED. If not, please explain);.
 
 ## Additional Information
 
